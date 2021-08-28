@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'BYOXY',
   author: 'Oxy',
-  email: '404x@protomail.com',
+  email: '02peroxide@gmail.com',
   link: 'https://byoxy.com',
   description: '陆行生物与它的废纸篓',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
