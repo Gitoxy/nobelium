@@ -2,7 +2,7 @@ const BLOG = {
   title: 'BYOXY',
   author: 'Oxy',
   email: '404x@protomail.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://byoxy.com',
   description: '陆行生物与它的废纸篓',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
