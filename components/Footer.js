@@ -15,6 +15,9 @@ const Footer = ({ fullWidth }) => {
         <div className="flex align-baseline justify-between flex-wrap">
           <p>
             © {BLOG.author} {from === y || !from ? y : `${from} - ${y}`}
+            <Link href="baidu.com">
+            <a>About Page</a >
+            </Link>
           </p>
           <Vercel />
         </div>
