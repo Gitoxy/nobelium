@@ -16,7 +16,7 @@ const Footer = ({ fullWidth }) => {
         <div className="flex align-baseline justify-between flex-wrap">
           <p>
             © {BLOG.author}
-            <Link a rel="me" href="https://mastodon.social/@foroxy">
+            <Link rel="me" href="https://mastodon.social/@foroxy">
               <a> | </a>
             </Link>
             {from === y || !from ? y : `${from} - ${y}`}
