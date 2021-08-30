@@ -17,9 +17,9 @@ const Footer = ({ fullWidth }) => {
           <p>
             © {BLOG.author}
             <Link href="https://mastodon.social/@foroxy">
-              <a>|</a>
+              <a> | </a>
             </Link>
-             {from === y || !from ? y : `${from} - ${y}`}
+            {from === y || !from ? y : `${from} - ${y}`}
           </p>
           <Vercel />
         </div>
